@@ -4,7 +4,7 @@
 
 # **2D Game - Ninja Warfare**
 
-![Game Banner](images/logo2.webp) 
+![Game Banner](img/logo2.webp) 
 
 ## **Overview**
 
