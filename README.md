@@ -1,7 +1,3 @@
-### Beautifully Enhanced **README** for Your 2D Game Project
-
----
-
 # **2D Game - Ninja Warfare**
 
 ![Game Banner](img/logo2.webp) 
